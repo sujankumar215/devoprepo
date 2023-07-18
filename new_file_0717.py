@@ -1,2 +1,2 @@
 print('hi sujan')
-print('hi harika kaj')
+print('hi harika sujan')
